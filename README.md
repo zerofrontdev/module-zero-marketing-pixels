@@ -60,6 +60,8 @@ network on or off with its ID (Meta and Pinterest: digits; TikTok: letters
 and digits; Clarity: the project ID). The hosts they load from are in the
 storefront's CSP (etc/csp_whitelist.xml).
 
+What changed in each release: [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 OSL-3.0 or AFL-3.0, your choice: see `NOTICE.md`.
